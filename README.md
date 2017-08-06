@@ -1,8 +1,5 @@
-##说明
+# first practice
 
-此博客 fork 自 cnfeat，感谢。
+Many thanks for my dear husband.
 
-##Kelly zhou personal blog starts from here.
-
-
-
+I will keep practising.

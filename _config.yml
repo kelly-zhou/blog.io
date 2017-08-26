@@ -8,12 +8,12 @@ url: ""
 
 # About/contact
 owner: 
-  name: " Kelly Zhou"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: "Kelly Zhou"
+  email: "zhou.jinli@foxmail.com"
+  bio: "Blog happening around me!"
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
+gavatar: http://dreamofbook.qiniudn.com/Az.png
 favicon: img/favicon.png
 
 douban_username:  
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CnFeat"
+      author: "Kelly-Zhou"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 

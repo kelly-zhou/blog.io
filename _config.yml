@@ -1,14 +1,14 @@
 # Site settings
-title: 读立写生
+title: Kelly-Zhou
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "Kelly-Zhou|Personal Blog"  
 baseurl: ""
-url: "http://cnfeat"  
+url: ""  
 
 # About/contact
 owner: 
-  name: " CnFeat"
+  name: " Kelly Zhou"
   email: CnFeat@gmail.com
   bio: "写就是写的报酬"
 
